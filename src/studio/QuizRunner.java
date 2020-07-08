@@ -19,7 +19,7 @@ public class QuizRunner {
         Checkbox checkboxQuiz = new Checkbox();
 
 //      Set true/false questions and answers
-        trueFalseQuiz.createQuestion("➤ True or False:\nLaunchCode starts with the letter 'I'?");
+        trueFalseQuiz.createQuestion("➤ True or False:\nLaunchCode starts with the letter 'L'?");
         trueFalseQuiz.createQuestion("➤ True or False:\nLaunchCode ends with the letter 'A'?");
         trueFalseQuiz.setAnswer("True");
         trueFalseQuiz.setAnswer("False");
